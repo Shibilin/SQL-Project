@@ -1,3 +1,3 @@
 # SQL-Project
 Attached one sql file contain sql program.
-Attached one word file contain screenshots of each answers under respective questions.
+Attached one word file contains screenshot of each answers under respective questions.
